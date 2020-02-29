@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">To-do List</string>
+    <string name="setting">Setting</string>
+    <string name="help">Help</string>
+    <string name="todoTitle">To-do Today</string>
+    <string name="editText">editing text</string>
+    <string name="add">add</string>
+</resources>

@@ -1,4 +1,4 @@
-package com.example.to_dolist;
+package com.imadassamani.to_dolist;
 
 import org.junit.Test;
 
